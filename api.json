@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-vestir-nino_id_11-04161-061-M-4.JPG?v=20210827045331",
+        "title": "Polo manga larga vestir niño",
+        "price": 20.1,
+        "discountedRate": 10,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 2,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-vestir-nino_id_11-04161-058-L-4.JPG?v=20210527133751",
+        "title": "Polo manga larga vestir niño",
+        "price": 18.99,
+        "discountedRate": 0,
+        "disponibility": " "
+    },
+    {
+        "id": 3,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-print-nino_id_11-04159-031-L-4.JPG?v=20210827045330",
+        "title": "Polo manga larga print niño",
+        "discountedRate": 15,
+        "price": 22.99,
+        "disponibility": "el último"
+    },
+    {
+        "id": 4,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo--ecofriends-manga-larga-estampado-nino_id_11-04158-096-L-4.JPG?v=20210527133752",
+        "title": "Polo ECOFRIENDS manga larga estampado niño",
+        "price": 13.99,
+        "discountedRate": 0,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 5,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-combinado-nino_id_11-04154-066-L-4.JPG?v=20210705052234",
+        "title": "Polo manga larga combinado niño",
+        "price": 14.56,
+        "discountedRate": 5,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 6,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-print-nino_id_11-04159-029-L-4.JPG?v=20210527133752",
+        "title": "Polo manga larga print niño",
+        "price": 38,
+        "discountedRate": 21,
+        "disponibility": " "
+    },
+    {
+        "id": 7,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-raya-bloque-nino_id_11-04156-086-L-4.JPG?v=20210527133752",
+        "title": "Polo manga larga raya bloque niño",
+        "price": 18.99,
+        "discountedRate": 0,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 8,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-ecofriends-manga-larga--print-letras-nino_id_11-04157-091-L-4.JPG?v=20210527133752",
+        "title": "Polo ECOFRIENDS manga larga print letras niño",
+        "price": 23.75,
+        "discountedRate": 8,
+        "disponibility": " "
+    },
+    {
+        "id": 9,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-ecofriends-manga-larga-skate-nino_id_11-04155-071-L-4.JPG?v=20210630052817",
+        "title": "Polo ECOFRIENDS manga larga skate niño",
+        "price": 8.5,
+        "discountedRate": 40,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 10,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo--ecofriends-manga-larga-estampado-nino_id_11-04158-095-L-4.JPG?v=20210527133752",
+        "title": "Polo ECOFRIENDS manga larga estampado niño",
+        "price": 20.7,
+        "discountedRate": 50,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 11,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-print-nino_id_11-04159-030-L-4.JPG?v=20210827045329",
+        "title": "Polo manga larga print niño",
+        "price": 19.98,
+        "discountedRate": 12,
+        "disponibility": " "
+    },
+    {
+        "id": 12,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo--ecofriends-manga-larga-estampado-nino_id_11-04158-097-L-4.JPG?v=20210720044159",
+        "title": "Polo ECOFRIENDS manga larga estampado niño",
+        "price": 24,
+        "discountedRate": 17,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 13,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-ecofriends-manga-larga-skate-nino_id_11-04155-072-L-4.JPG?v=20210630052817",
+        "title": "Polo ECOFRIENDS manga larga skate niño",
+        "price": 17.3,
+        "discountedRate": 0,
+        "disponibility": "más colores"
+    },
+    {
+        "id": 14,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-rugby-banda-diagonal--nino_id_11-55121-701-L-4.JPG?v=20210901052901",
+        "title": "Polo rugby banda diagonal niño",
+        "price": 19.99,
+        "discountedRate": 20,
+        "disponibility": " "
+    },
+    {
+        "id": 15,
+        "img": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/polo-manga-larga-vestir-nino_id_11-04161-059-L-4.JPG?v=20210527133751",
+        "title": "Polo manga larga vestir niño",
+        "price": 39.99,
+        "discountedRate": 0,
+        "disponibility": "más colores"
+    }
+]

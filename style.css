@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* ---ETIQUETAS--- */
+body{
+    width: 96vw;
+    margin: auto;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    text-align: center;
+}
+nav{
+    background-color: #0172ea;
+    color: aliceblue;
+    padding: 4px 0;
+}
+header{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: end;
+    align-items: center;
+    margin: 15px 0 30px;
+}
+h3{font-weight: 300}
+
+/* ---ID--- */
+#search{
+    height: 1.8rem;
+    width: 100%;
+    border-radius: 5px;
+    border-color: rgb(111, 112, 112);
+    text-indent: 10px;
+}
+#icons{padding-right: 5px}
+#containerCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+#img{width: 100%}
+#title{margin: 20px 0 10px 0}
+#disponibility{
+    margin: 20px;
+    color: #6e6e70;
+}
+#btn{
+    padding: 6px;
+    background-color: #0172ea;
+    border: none;
+    border-radius: 4px;
+    color: rgb(252, 252, 252);
+}
+#cardDiscount{color: rgb(216, 9, 9)}
+#icons a{text-decoration: none}
+#containerCart{
+    width: auto;
+    max-width: 900px;
+    margin: auto;
+    text-align: left;
+    background-color: #e9a238;
+    border-radius: 20px;
+    padding: 10px 0 10px 30px;
+}
+#total{margin: 5px 0 20px}
+
+
+/* ---CLASES--- */
+.card{
+    width: 270px;
+    height: auto;
+    padding: 20px;
+    border: 2px solid #99c0e9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px 1px rgb(180, 178, 178);
+    color: #404042;
+}
+.red{
+    font-weight: 600;
+    color: rgb(241, 8, 8);
+}
+.bold{font-weight: 600}
+.icon{
+    color: grey;
+    margin: 0 5px}
+.filter{display: none}
+.icon:hover{background-color: #c6e0fc}
