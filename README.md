@@ -11,4 +11,6 @@ Funcionalidades:
 Hay alguna sorpresita más que he desarrollado como el carrito, cantidades del mismo producto, descuentos automatizados, si el título no entra en la card acortarlo... 
 Espero que lo disfrutéis tanto como yo.
 
+Personalmente uso la extensión live server para abrir localmente el proyecto en el buscador
+
 Atentamente Abel
